@@ -161,5 +161,3 @@ data.forEach(item => {
 	console.log(addedArticles);
 	return mainArticle.appendChild(addedArticles);
 });
-
-articleMaker(data);
